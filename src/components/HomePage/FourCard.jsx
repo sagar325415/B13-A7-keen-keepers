@@ -5,7 +5,7 @@ const FourCard = () => {
         <div>
             <section className="max-w-[1110px] mx-auto px-4 py-10 text-center">
                 <h1 className="text-5xl text-[#1F2937] font-bold">
-                    Friends to keep 
+                    Friends to keep close in your life
                 </h1>
                 <p className="text-[#64748B] text-[16px] my-4">
                     Your personal shelf of meaningful connections. Browse, tend, and nurture the

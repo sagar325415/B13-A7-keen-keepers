@@ -9,7 +9,7 @@ const Footer = () => {
 
                 <div class="max-w-6xl mx-auto text-center">
                     <h2 className='text-6xl'>KeenKeeper</h2>
-                    <p class="mt-4 text-[#FAFAFA] mb-8">Your personal shelf of meaningful connections...</p>
+                    <p class="mt-4 text-[#FAFAFA] mb-8">Your </p>
 
                     <div class="flex justify-center gap-4">
                         <a class="bg-white p-2 rounded-full">
